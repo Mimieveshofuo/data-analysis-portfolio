@@ -59,8 +59,9 @@ This project analyzes 12 months of sales data for a fictional electronics retail
 
 ## 🖼️ Dashboard Preview
 > *(Add a screenshot of your Excel dashboard here)*
-> ![Sales Dashboard](./dashboard-screenshot.png)
+> ![Monthly Sales Dashboard](./dashboard-screenshot-1.png)
 
+![Product Sales Dashboard](./dashboard-screenshot-2.png)
 ---
 
 ## 💡 Recommendations
