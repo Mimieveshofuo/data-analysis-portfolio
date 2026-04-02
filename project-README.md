@@ -73,5 +73,4 @@ This project analyzes 12 months of sales data for a fictional electronics retail
 ---
 
 ## 🔗 Connect
-- [LinkedIn](#) *(add your link)*
 - [Back to Portfolio](../README.md)
