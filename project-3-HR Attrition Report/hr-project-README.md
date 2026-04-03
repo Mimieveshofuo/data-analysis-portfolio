@@ -79,5 +79,5 @@ This project investigates employee attrition patterns across a fictional company
 ---
 
 ## 🔗 Connect
-- [LinkedIn](#) *(add your link)*
+
 - [Back to Portfolio](../README.md)
